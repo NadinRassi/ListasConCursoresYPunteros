@@ -1,7 +1,7 @@
 from tipos import *
 from listacursor import *
 
-lista1 = Lista(TipoDatosClave.NUMERO, 3)#que tipo de datos guardo y la cantidad de nodos re locos ajja
+lista1 = Lista(TipoDatosClave.NUMERO, 3)#que tipo de datos guardo y la cantidad de nodos
 
 x= TipoElemento()
 x.clave = 5
